@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-garden",
+  "name": "@koleok/gatsby-theme-garden",
   "version": "0.1.55",
   "description": "Gatsby theme to create a digital garden",
   "main": "index.js",
@@ -15,11 +15,6 @@
     "notes",
     "roam-research"
   ],
-  "author": "Mathieu Dutour <mathieu@dutour.me>",
-  "repository": {
-    "url": "https://github.com/mathieudutour/gatsby-digital-garden",
-    "directory": "packages/gatsby-theme-garden"
-  },
   "license": "MIT",
   "peerDependencies": {
     "gatsby": "^2.13.13",
